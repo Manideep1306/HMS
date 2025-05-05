@@ -1,0 +1,9 @@
+{
+	
+    "require": {
+        "mpdf/mpdf": "^6.1"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5"
+    }
+}
